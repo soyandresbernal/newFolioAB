@@ -9,8 +9,6 @@ import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 import './App.css';
 
-import './App.css';
-
 const App = () => {
   const [{ themeName }] = useContext(ThemeContext);
 
