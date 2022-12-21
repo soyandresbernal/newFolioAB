@@ -13,3 +13,21 @@ const about = {
     github: 'https://github.com',
   },
 };
+const skills = [
+  'HtmlL',
+  'Css',
+  'JavaScript',
+  'TypeScript',
+  'React',
+  'Redux',
+  'Sass',
+  'Material UI',
+  'Git',
+  'CI/CD',
+  'JEST',
+];
+const contact = {
+  email: 'soyandresbernal@gmail.com',
+};
+
+export { header, about, projects, skills, contact };
